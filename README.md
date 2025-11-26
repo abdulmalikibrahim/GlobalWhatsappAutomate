@@ -27,8 +27,6 @@ Aplikasi ini pakai:
 👉 **Klik untuk download versi terbaru:**  
 🔗 https://github.com/abdulmalikibrahim/GlobalWhatsappAutomate/releases/latest
 
-> Ganti `username` dan `repo` sesuai repo kamu.
-
 ---
 
 ## 📦 Cara Install & Jalankan
